@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131395687567",
+    "project_id": "smart-home-4b7c5",
+    "storage_bucket": "smart-home-4b7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131395687567:android:4589f684030b42595bccfa",
+        "android_client_info": {
+          "package_name": "com.example.raneamproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVf0z8rFNBStdrdwnFqDfTu2_Zeauwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

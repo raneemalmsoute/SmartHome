@@ -1,0 +1,10 @@
+import '../../core/class/crud.dart';
+import '../../serverLink.dart'     ;
+class SafetyData{
+  Crud crud =Crud()    ;
+  getSensorValue()async{
+    var response = await crud.getData(ServerLink.getSingleService,) ;
+
+    return response.fold((l) => l, (r) => r) ;
+  }
+}
