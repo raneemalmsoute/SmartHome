@@ -11,6 +11,3 @@ A smart home simulation app built with Flutter, using modern UI, state managemen
 - 💾 Data persistence with Shared Preferences
 - 🎞️ Lottie animations for beautiful transitions
 - 📢 Toast messages for quick user feedback
-
-
-ىى
